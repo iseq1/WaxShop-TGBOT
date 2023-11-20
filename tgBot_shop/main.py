@@ -1,7 +1,7 @@
 import telebot
 import requests
 from telebot import types
-TOKEN = "6339258790:AAHxGPnUh9PzvaSndR0ZOAxaZJnHapi5ar8"
+TOKEN = "token"
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')
 
 class Price:
